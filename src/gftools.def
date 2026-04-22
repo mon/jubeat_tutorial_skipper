@@ -1,0 +1,21 @@
+LIBRARY gftools.dll
+EXPORTS
+    GFFSMObjectIsShutting
+    GFFSMObjectSetNextState
+    GFFSMObjectSetNextData
+    GFFSMLogPutLeaveState
+    GFFSMObjectSetTransiting
+    GFInputDDevGetStateMap
+    GFFSMLogPutOnMessage
+    GFDrawScreen
+    GFDrawReadyContext
+    GFDrawReadyArrays
+    GFDrawSetCapability
+    GFDrawAlphaFunc
+    GFDrawBlendFunc
+    GFDrawBegin
+    GFDrawEnd
+    GFDrawColor4ub
+    GFDrawVertex2f
+    GFDrawTexCoord2f
+    GFAVSSwapBuffers

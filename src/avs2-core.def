@@ -1,0 +1,8 @@
+LIBRARY avs2-core
+
+EXPORTS
+    vlog_body         @378 NONAME
+    log_body_fatal    @379 NONAME
+    log_body_warning  @380 NONAME
+    log_body_info     @381 NONAME
+    log_body_misc     @382 NONAME

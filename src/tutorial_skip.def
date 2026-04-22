@@ -1,0 +1,3 @@
+EXPORTS
+    hook_tutorial_fsm=hook_tutorial_fsm
+    hook_GFAVSSwapBuffers=hook_GFAVSSwapBuffers

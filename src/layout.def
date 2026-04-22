@@ -1,0 +1,6 @@
+LIBRARY layout
+EXPORTS
+    LayoutGetPanelLeft
+    LayoutGetPanelTop
+    LayoutGetPanelWidth
+    LayoutGetPanelHeight
